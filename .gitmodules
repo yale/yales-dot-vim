@@ -34,3 +34,6 @@
 [submodule "bundle/utl-vim"]
 	path = bundle/utl-vim
 	url = https://github.com/vim-scripts/utl.vim.git
+[submodule "bundle/vim-organizer"]
+	path = bundle/vim-organizer
+	url = https://github.com/hsitz/VimOrganizer.git
