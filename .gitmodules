@@ -37,3 +37,15 @@
 [submodule "bundle/utl-vim"]
 	path = bundle/utl-vim
 	url = https://github.com/vim-scripts/utl.vim.git
+[submodule "bundle/taglist"]
+	path = bundle/taglist
+	url = https://github.com/vim-scripts/taglist.vim.git
+[submodule "bundle/tagbar"]
+	path = bundle/tagbar
+	url = https://github.com/majutsushi/tagbar.git
+[submodule "bundle/vim-speeddating"]
+	path = bundle/vim-speeddating
+	url = https://github.com/tpope/vim-speeddating.git
+[submodule "bundle/narrow-region"]
+	path = bundle/narrow-region
+	url = https://github.com/vim-scripts/narrow_region.git
