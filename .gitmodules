@@ -43,9 +43,9 @@
 [submodule "bundle/ack"]
 	path = bundle/ack
 	url = https://github.com/mileszs/ack.vim.git
-[submodule "bundle.easymotion"]
-	path = bundle.easymotion
+[submodule "bundle/easymotion"]
+	path = bundle/easymotion
 	url = https://github.com/Lokaltog/vim-easymotion.git
-[submodule "vimroom"]
-	path = vimroom
+[submodule "bundle/vimroom"]
+	path = bundle/vimroom
 	url = https://github.com/mikewest/vimroom.git
