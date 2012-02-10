@@ -1,0 +1,17 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2038
+
+This plugin provides a command which somewhat limits the buffer to a specified range of lines.
+
+...
+:[range]NarrowRegion
+		This command does the following, with [range] defaulting to
+		the current line :
+		- store current folds, foldstates and foldoptions
+		- delete all folds
+		- setl foldopen=undo
+		- setl foldclose=all
+		- setl foldminlines=0
+		- setl foldmethod=manual
+		- fold all lines outside of range
+		- setup the nice extras, see below
+...
