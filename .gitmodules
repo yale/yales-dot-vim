@@ -79,3 +79,15 @@
 [submodule "bundle/vim-gitgutter"]
 	path = bundle/vim-gitgutter
 	url = git://github.com/airblade/vim-gitgutter.git
+[submodule "bundle/vim-expand-region"]
+	path = bundle/vim-expand-region
+	url = git@github.com:terryma/vim-expand-region.git
+[submodule "bundle/vim-solarized-powerline"]
+	path = bundle/vim-solarized-powerline
+	url = https://github.com/stephenmckinney/vim-solarized-powerline.git
+[submodule "bundle/mustache"]
+	path = bundle/mustache
+	url = git@github.com:juvenn/mustache.vim.git
+[submodule "bundle/unite"]
+	path = bundle/unite
+	url = https://github.com/Shougo/unite.vim.git
