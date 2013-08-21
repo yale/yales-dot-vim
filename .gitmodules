@@ -97,3 +97,24 @@
 [submodule "bundle/unite-outline"]
 	path = bundle/unite-outline
 	url = https://github.com/h1mesuke/unite-outline.git
+[submodule "bundle/unite-ack"]
+	path = bundle/unite-ack
+	url = https://github.com/t9md/vim-unite-ack.git
+[submodule "bundle/align"]
+	path = bundle/align
+	url = https://github.com/vim-scripts/Align.git
+[submodule "bundle/vim-less"]
+	path = bundle/vim-less
+	url = https://github.com/groenewege/vim-less.git
+[submodule "bundle/floobits"]
+	path = bundle/floobits
+	url = https://github.com/Floobits/floobits-vim.git
+[submodule "pgsql.vim"]
+	path = pgsql.vim
+	url = https://github.com/exu/pgsql.vim.git
+[submodule "bundle/dbext.vim"]
+	path = bundle/dbext.vim
+	url = https://github.com/vim-scripts/dbext.vim.git
+[submodule "bundle/emmet-vim"]
+	path = bundle/emmet-vim
+	url = https://github.com/mattn/emmet-vim.git
